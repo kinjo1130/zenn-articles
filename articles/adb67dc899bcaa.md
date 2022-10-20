@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "vscodeから記事を手筆"
 emoji: "😊"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ['hoge']
 published: false
 ---
 
